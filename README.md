@@ -6,6 +6,7 @@ This data analysis project explores Blinkit’s sales trends, customer satisfact
 
 ## 📂 Files Included
 - `Blinkit_Analysis.ipynb` – Data analysis in Python
+- 'BlinkIT Grocery Data.xlsx'
 
 
 ## 🛠 Tools & Tech
